@@ -49,5 +49,5 @@ make modifications.
 
 - Open VLC on a device connected to the network, and open an RTSP stream:
 
-  rtsp://10.10.10.1:8554
+  rtsp://10.10.10.1:8554/camera
 
