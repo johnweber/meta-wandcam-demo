@@ -12,7 +12,4 @@ IMAGE_INSTALL += " \
     glive \
 "
 
-# Because hostapd v1 does not seem to work with the BCM4329
-PREFERRED_VERSION_hostap-daemon = "2.0"
-
 export IMAGE_BASENAME = "wandcam-ap-demo-image"
